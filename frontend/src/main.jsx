@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 import AuthProvider from "./context/AuthContext";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/Play-Way-School-Website/">
     <AuthProvider>
       <App />
     </AuthProvider>
