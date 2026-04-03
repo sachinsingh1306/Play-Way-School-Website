@@ -19,7 +19,7 @@ function About() {
         
         <div className="relative max-w-6xl mx-auto text-center z-10">
           <div className="inline-flex items-center gap-2 px-6 py-2.5 mb-10 text-xs font-black tracking-[0.2em] text-blue-900 uppercase bg-yellow-400 rounded-full shadow-xl shadow-yellow-400/20">
-            <Sparkles size={16} /> Est. 2010 • Excellence in Early Education
+            <Sparkles size={16} /> Est. 2026 • Excellence in Early Education
           </div>
           <h1 className="text-5xl md:text-8xl font-black text-white mb-8 tracking-tighter leading-[1.05]">
             Our Story & <br />
