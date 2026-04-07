@@ -23,8 +23,8 @@ A modern and responsive **School Website** designed to provide essential informa
 - HTML
 - CSS
 - JavaScript
-- React.js *(if used)*
-- Tailwind CSS *(if used)*
+- React.js 
+- Tailwind CSS
 
 ### Backend
 - Node.js
